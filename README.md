@@ -80,10 +80,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-##  联系方式 Contacts & Links 
+##  📫 联系方式 Contacts & Links 
 
-- Email： uranicial@qq.com，uranicial@gmail.com
-- 博客：[Uranicial](https://uranicial.github.io/)
+- 📧 Email： uranicial@qq.com，uranicial@gmail.com
+- 🌐 博客：[Uranicial](https://uranicial.github.io/)
 
 ## ⏱️ 开发活动 Development Activity
 
