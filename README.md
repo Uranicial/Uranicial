@@ -6,7 +6,12 @@
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Sriracha&weight=400&size=32&duration=7000&pause=3000&color=777FC0&center=true&vCenter=true&width=1000&height=65&repeat=true&lines=Welcome+to+my+GitHub+profile!;Hi!+I'm+Uranicial%2C+a+Full-stack+Explorer." />
 </p>
 <!-- Main Content -->
-[![Uranicial's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Uranicial&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="100%" alt="Uranicial's GitHub Activity Graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Uranicial&theme=github-compact&area=true&hide_border=true" />
+  </a>
+</p>
 
 ## 👋 个人简介 Profile
 
