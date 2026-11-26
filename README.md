@@ -7,11 +7,17 @@
 </p>
 <!-- Main Content -->
 <!-- GitHub Activity Graph -->
+
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width="100%" alt="Uranicial's GitHub Activity Graph" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Uranicial&theme=github-compact&area=true&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <img width="58%" src="./profile/stats.svg" />
+  <img width="40%" src="./profile/top-langs.svg" />
+</p>
+
 
 ## 👋 个人简介 Profile
 
