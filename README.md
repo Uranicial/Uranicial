@@ -14,8 +14,8 @@
   </a>
 </p>
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Uranicial&show_icons=true&include_all_commits=true&theme=dark_github" />
-  <img height="180" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Uranicial&layout=compact&langs_count=6&theme=dark_github" />
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Uranicial&show_icons=true&include_all_commits=true&theme=dark_github" />
+  <img height="180" align="center" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Uranicial&layout=compact&langs_count=8&card_width=320&theme=dark_github" />
 </p>
 
 ## 👋 个人简介 Profile
@@ -119,7 +119,6 @@ Sunday                   108 commits         ██░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
-
 
  Last Updated on 2026-11-26 07:52 UTC
 <!--END_SECTION:waka-->
