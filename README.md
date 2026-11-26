@@ -15,3 +15,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8CA6DB,50:A6C1EE,100:D4FCFF#gh-light-mode-only" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:365B78,50:203D56,100:0F202F#gh-dark-mode-only" />
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0F202F,50:203D56,100:365B78&text=%F0%9D%93%A4%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA%F0%9D%93%B5&fontColor=D4FCFF&fontSize=64&fontAlignY=35&desc=Full-stack%20Explorer&descSize=22&descAlignY=58)
