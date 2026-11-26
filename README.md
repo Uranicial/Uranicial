@@ -28,6 +28,16 @@
 [![Steam](https://img.shields.io/badge/Uranicial-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199015325979/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Uranicial-62B47A)](https://namemc.com/profile/Uranicial)
 
+你好，我是 **Uranicial**，一名工业工程专业本科生，也是一名全栈开发学习者。
+
+- 🎓 Undergraduate student majoring in Industrial Engineering.
+- 💻 正在探索全栈开发、移动端开发与人工智能。
+- 🌱 热衷于学习新技术，关注开源社区。
+- 🎮 喜欢游戏、音乐与探索有趣的事物。
+- 🚀 希望通过技术将创意转化为现实。
+
+*Stay curious, keep learning, and never stop building.*
+
 
 ## 🛠️ 技术栈 Tech Stack
 
@@ -74,7 +84,16 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+##  联系方式 Contacts & Links 
 
+- Email： uranicial@qq.com，uranicial@gmail.com
+- 博客：[Uranicial](https://uranicial.github.io/)
+
+## ⏱️ 开发活动 Development Activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8584C5,50:5366A5,100:303B75" />
