@@ -8,8 +8,11 @@
 <!-- Main Content -->
 [![Uranicial's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Uranicial&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##  个人简介 Profile
+## 👋 个人简介 Profile
 
+[![Bilibili](https://img.shields.io/badge/Uranicial-FB7299?logo=bilibili&logoColor=white)](https://space.bilibili.com/39545640)
+[![Steam](https://img.shields.io/badge/Uranicial-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199015325979/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Uranicial-62B47A)](https://namemc.com/profile/Uranicial)
 
 
 ## 🛠️ 技术栈 Tech Stack
@@ -32,6 +35,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### 开发工具 · Development Tools
 
@@ -56,11 +60,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## **🎮 社交与兴趣 · Social & Gaming**
+## 🎮 社交与兴趣 · Social & Gaming
 
-[![Steam](https://img.shields.io/badge/Uranicial-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199015325979/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Uranicial-62B47A)](https://namemc.com/profile/Uranicial)
-[![Bilibili](https://img.shields.io/badge/Uranicial-FB7299?logo=bilibili&logoColor=white)](https://space.bilibili.com/39545640)
+
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8584C5,50:5366A5,100:303B75" />
