@@ -14,10 +14,13 @@
   </a>
 </p>
 <p align="center">
-  <img width="58%" src="./profile/stats.svg" />
-  <img width="40%" src="./profile/top-langs.svg" />
+  <a href="https://github-stats-extended.vercel.app/api?username=Uranicial&show_icons=true&include_all_commits=true&theme=dark_github">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Uranicial&show_icons=true&include_all_commits=true&theme=dark_github" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Uranicial&layout=compact&langs_count=6&theme=dark_github">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Uranicial&layout=compact&langs_count=6&theme=dark_github" />
+  </a>
 </p>
-
 
 ## 👋 个人简介 Profile
 
@@ -70,8 +73,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-## 🎮 社交与兴趣 · Social & Gaming
 
 
 
