@@ -19,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEBUG_LOGGING: "True"
+          DEBUG_LOGGING: "False"
           
           # 显示语言
           LOCALE: "en"
