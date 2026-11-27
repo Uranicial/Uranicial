@@ -87,8 +87,44 @@
 ## ⏱️ 开发活动 Development Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
- Last Updated on 2026-11-27 06:17 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌆 Daytime                708 commits         ████████████████░░░░░░░░░   64.25 % 
+🌃 Evening                157 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Tuesday                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 342 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Sunday                   108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 3 hrs 2 mins        ███████████████████████░░   90.81 % 
+Kotlin                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+```
+
+
+ Last Updated on 2026-11-27 06:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- Footer -->
